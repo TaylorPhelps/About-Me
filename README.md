@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zephyr472
-- 👀 I’m interested in learning how to become a software developer
+- 👋 Hi, I’m Taylor Phelps!
+- 👀 I’m interested in becoming a software developer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 How to reach me: message me on git or email
